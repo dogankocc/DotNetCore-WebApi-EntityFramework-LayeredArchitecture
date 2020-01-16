@@ -1,0 +1,11 @@
+c:\users\dogankoc\source\repos\DijitalTestApi\DijitalTestApi\bin\Debug\netcoreapp2.0\DijitalTestApi.deps.json
+c:\users\dogankoc\source\repos\DijitalTestApi\DijitalTestApi\bin\Debug\netcoreapp2.0\DijitalTestApi.runtimeconfig.json
+c:\users\dogankoc\source\repos\DijitalTestApi\DijitalTestApi\bin\Debug\netcoreapp2.0\DijitalTestApi.runtimeconfig.dev.json
+c:\users\dogankoc\source\repos\DijitalTestApi\DijitalTestApi\bin\Debug\netcoreapp2.0\DijitalTestApi.dll
+c:\users\dogankoc\source\repos\DijitalTestApi\DijitalTestApi\obj\Debug\netcoreapp2.0\DijitalTestApi.csprojAssemblyReference.cache
+c:\users\dogankoc\source\repos\DijitalTestApi\DijitalTestApi\obj\Debug\netcoreapp2.0\DijitalTestApi.csproj.CoreCompileInputs.cache
+c:\users\dogankoc\source\repos\DijitalTestApi\DijitalTestApi\obj\Debug\netcoreapp2.0\DijitalTestApi.AssemblyInfoInputs.cache
+c:\users\dogankoc\source\repos\DijitalTestApi\DijitalTestApi\obj\Debug\netcoreapp2.0\DijitalTestApi.AssemblyInfo.cs
+c:\users\dogankoc\source\repos\DijitalTestApi\DijitalTestApi\bin\Debug\netcoreapp2.0\DijitalTestApi.pdb
+c:\users\dogankoc\source\repos\DijitalTestApi\DijitalTestApi\obj\Debug\netcoreapp2.0\DijitalTestApi.dll
+c:\users\dogankoc\source\repos\DijitalTestApi\DijitalTestApi\obj\Debug\netcoreapp2.0\DijitalTestApi.pdb

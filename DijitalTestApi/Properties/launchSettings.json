@@ -1,0 +1,22 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:59045",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+   
+    "DijitalTestApi": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "usertest",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:59046"
+    }
+  }
+}

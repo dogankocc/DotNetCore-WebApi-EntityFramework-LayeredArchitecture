@@ -1,0 +1,5 @@
+c:\users\dogankoc\source\repos\DijitalTestApi\Data\bin\Debug\netcoreapp2.0\Model.dll
+c:\users\dogankoc\source\repos\DijitalTestApi\Data\obj\Debug\netcoreapp2.0\Data.csprojAssemblyReference.cache
+c:\users\dogankoc\source\repos\DijitalTestApi\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+c:\users\dogankoc\source\repos\DijitalTestApi\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+c:\users\dogankoc\source\repos\DijitalTestApi\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
