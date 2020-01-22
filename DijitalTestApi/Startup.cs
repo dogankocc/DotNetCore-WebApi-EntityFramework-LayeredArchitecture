@@ -43,6 +43,23 @@ namespace DijitalTestApi
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+            //If you want connect to existing database ,you should dont use use these codes
+            //If you have created the migrations, you could execute them follows.
+            //using (var serviceScope = app.ApplicationServices.GetService<IServiceScopeFactory>().CreateScope())
+            //{
+            //    var context = serviceScope.ServiceProvider.GetRequiredService<ApplicationDBContext>();
+            //    context.Database.Migrate();
+            //}
+
+            //If your not using Entity Framework Migrations, and instead just need your DbContext model created exactly as it is in your context class at first run, then you can use
+            //using (var serviceScope = app.ApplicationServices.GetService<IServiceScopeFactory>().CreateScope())
+            //{
+            //    var context = serviceScope.ServiceProvider.GetRequiredService<ApplicationDBContext>();
+            //    context.Database.EnsureCreated();
+            //}
+
+
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
